@@ -2,7 +2,7 @@
 
 <head>
   
-  <title>Mon titre</title>
+  <title>Mon incroyable titre</title>
   
 </head>
 <body>
